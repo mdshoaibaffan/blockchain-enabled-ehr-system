@@ -25,8 +25,8 @@
 **Machine Learning, Python, Django, Data Analytics, NLP, OpenCV, SQL**
 
 ### 📫 How to Reach Me  
-📧 **mdshoaibaffan@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/md-shoaib-affan  
+📧 **mohammed.shoaib.affan@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mohammadshoaibaffan  
 
 ---
 
@@ -82,10 +82,10 @@ A secure, multi-module healthcare application featuring:
 # 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/md-shoaib-affan">
+  <a href="https://www.linkedin.com/in/mohammadshoaibaffan">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  <a href="mailto:mdshoaibaffan@gmail.com">
+  <a href="mailto:mohammed.shoaib.affan@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" height="45"/>
   </a>
   <a href="https://github.com/mdshoaibaffan">
