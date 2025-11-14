@@ -1,104 +1,71 @@
-<h1 align="center">👋 Hi, I'm Shoaib Affan</h1>
-<h3 align="center">A Passionate Data Science & AI Enthusiast from India</h3>
+📌 Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdshoaibaffan&label=Profile+Views&color=blue&style=for-the-badge" />
-</p>
+This project is a secure and modular Electronic Health Record (EHR) system built using Django.
+It enables seamless interaction between Patients, Doctors, Admins, and a Transaction Manager, while maintaining a blockchain-inspired ledger for transaction transparency.
 
----
+The project includes:
 
-### 🚀 Worked On  
-- **Blockchain Enabled Secure EHR System**  
-  A secure, modular healthcare platform using Django, Blockchain-inspired ledger workflows, and intelligent disease prediction.
+Patient symptom submission
 
-### 🌱 Currently Learning  
-- **Data Science, Machine Learning, NLP, LLMs, Python, Django, SQL, Power BI**
-- **Computer Vision (OpenCV), TensorFlow basics**
-- **Cloud Essentials & Deployment**
+Rule-based disease prediction
 
-### 🤝 Looking to Collaborate On  
-- AI-powered healthcare tools  
-- ML/NLP automation use-cases  
-- Data-Driven projects & dashboards  
+Doctor diagnosis workflow
 
-### 🤔 Ask Me About  
-**Machine Learning, Python, Django, Data Analytics, NLP, OpenCV, SQL**
+Admin verification system
 
-### 📫 How to Reach Me  
-📧 **mohammed.shoaib.affan@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mohammadshoaibaffan  
+Ledger-based transaction monitoring
 
----
+🚀 Features
+👨‍⚕️ Patient
 
-# 🧩 Project: Blockchain Enabled Secure EHR System
+Register, log in, submit symptoms
 
-A secure, multi-module healthcare application featuring:
-- ✔ Patient–Doctor–Admin–Transaction Manager modules  
-- ✔ Rule-based ML + WordNet NLP for disease prediction  
-- ✔ Ledger-based blockchain-style transaction storage  
-- ✔ Django backend with MySQL integration  
-- ✔ Bootstrap UI  
-- ✔ Role-based authentication  
+View disease predictions
 
----
+Check doctor responses
 
-# 🔧 Languages & Tools I Used in This Project
+View purchase & ledger history
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,bootstrap,git,github,linux" height="45"/>
-</p>
+🩺 Doctor
 
-### Additional Tech Used  
-- ✔ **NLTK (WordNet)**  
-- ✔ **Rule-based ML logic**  
-- ✔ **Python backend automation**  
-- ✔ **Ledger transaction model**  
-- ✔ **WAMP server (for DB hosting)**  
+Review patient symptoms
 
----
+Provide diagnosis & prescription
 
-# 📊 Most Used Languages (Project Wise)
+Approve or mark items for purchase
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshoaibaffan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🔐 Admin
 
----
+Activate/verify patients and doctors
 
-# 📚 Project Highlights
+View all user data
 
-### 🔥 Features  
-- Patient symptom submission  
-- Intelligent disease prediction using ML + WordNet  
-- Doctor diagnosis & prescription interface  
-- Admin user activation & verification  
-- Secure transaction & ledger storage  
-- Multi-role login system (Patient / Doctor / Admin / Tx Manager)
+Monitor system-wide transactions
 
----
+💳 Transaction Manager
 
----
+View purchases and ledger balance
 
-# 🔗 Connect With Me
+Monitor transaction history
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammadshoaibaffan">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  <a href="mailto:mohammed.shoaib.affan@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" height="45"/>
-  </a>
-  <a href="https://github.com/mdshoaibaffan">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-</p>
+🧠 Intelligent Symptom Analysis (ML Component)
 
----
+Uses:
 
-# ⭐ If you like this project, consider giving it a star!
+Rule-Based Classification
 
-# 🛠 Installation Instructions
+WordNet (NLP) for medical definition extraction
 
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+Mapping of symptoms → probable diseases
+
+🛠 Technologies Used
+
+Python, Django
+
+MySQL
+
+HTML, CSS, JavaScript, Bootstrap
+
+Python Libraries: NLTK (WordNet), Pandas, NumPy
+
+WAMP Server (for MySQL hosting in local environment)
