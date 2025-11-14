@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Currently Working On  
+### 🚀 Worked On  
 - **Blockchain Enabled Secure EHR System**  
   A secure, modular healthcare platform using Django, Blockchain-inspired ledger workflows, and intelligent disease prediction.
 
